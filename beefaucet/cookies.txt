@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-faucetbee.com	TRUE	/	FALSE	1999999999	ci_session	shks2famfl8vmrkjejes214ga753mo59
-faucetbee.com	TRUE	/	FALSE	1999999999	csrf_cookie_name	e56a84d26612779eb8c775dd88ae5153
-
